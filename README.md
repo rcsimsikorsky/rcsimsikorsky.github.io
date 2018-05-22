@@ -1,3 +1,3 @@
 # rcsimsikorsky.github.io
 
-![Rescue](https://github.com/rcsimsikorsky/rcsimsikorsky.github.io/edit/master/README.md)
+![Rescue](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sikorsky_YH-5A_USAF.jpg/800px-Sikorsky_YH-5A_USAF.jpg)
